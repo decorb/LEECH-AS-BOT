@@ -1,6 +1,0 @@
-name: leech-as-bot
-type: worker
-regions:
-  - frankfurt
-healthcheck:
-  disable: true
