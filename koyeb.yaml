@@ -1,0 +1,8 @@
+name: leech-as-bot
+type: worker
+regions:
+  - frankfurt
+docker:
+  image: ghcr.io/sameershaikh126878/leech-as-bot:latest
+healthcheck:
+  disable: true
